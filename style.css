@@ -18,7 +18,7 @@
     width: 100px;
 }
 .logo   {
-    background-image: url("/amazon_clone/img/amazon_logo.png");
+    background-image: url("/Amazon_clone_project/img/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -138,7 +138,7 @@ span    {
 
 /* Hero's Section */
 .hero_section   {
-    background-image: url(/amazon_clone/img/hero_image.jpg);
+    background-image: url(/Amazon_clone_project/img/hero_image.jpg);
     background-size: cover;
     height: 350px;
     display: flex;
@@ -247,7 +247,7 @@ ul a:hover    {
     justify-content: center;
 }
 .logo   {
-    background-image: url("/amazon_clone/img/amazon_logo.png");
+    background-image: url("/Amazon_clone_project/img/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100px;
