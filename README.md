@@ -32,7 +32,7 @@ The design mimics the core elements of Amazon’s landing page—such as the nav
 
 ---
 
-## 🙋‍♂️ Author
+## 🙋‍♂️ Connect with Me
 
 - 🔗 [GitHub](https://github.com/TanmayMargaj35)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tanmay-margaj-5598542bb)
