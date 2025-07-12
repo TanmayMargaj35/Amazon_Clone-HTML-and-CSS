@@ -34,5 +34,5 @@ The design mimics the core elements of Amazon’s landing page—such as the nav
 
 ## 🙋‍♂️ Author
 
-- 🔗 [GitHub](https://github.com/your-username)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 🔗 [GitHub](https://github.com/TanmayMargaj35)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tanmay-margaj-5598542bb)
